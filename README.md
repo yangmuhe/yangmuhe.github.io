@@ -1,5 +1,5 @@
 # yangmuhe.github.io
 
-Muhe Yang website (updated Oct. 2022)
+Muhe Yang website (updated Jan. 2023)
 
 https://yangmuhe.github.io/
